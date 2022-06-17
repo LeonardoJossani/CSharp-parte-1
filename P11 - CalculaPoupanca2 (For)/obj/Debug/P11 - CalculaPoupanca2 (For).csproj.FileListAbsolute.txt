@@ -1,0 +1,8 @@
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P11 - CalculaPoupanca2 (For)\bin\Debug\P11 - CalculaPoupanca2 (For).exe.config
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P11 - CalculaPoupanca2 (For)\bin\Debug\P11 - CalculaPoupanca2 (For).exe
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P11 - CalculaPoupanca2 (For)\bin\Debug\P11 - CalculaPoupanca2 (For).pdb
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P11 - CalculaPoupanca2 (For)\obj\Debug\P11 - CalculaPoupanca2 (For).csproj.AssemblyReference.cache
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P11 - CalculaPoupanca2 (For)\obj\Debug\P11 - CalculaPoupanca2 (For).csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P11 - CalculaPoupanca2 (For)\obj\Debug\P11 - CalculaPoupanca2 (For).csproj.CoreCompileInputs.cache
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P11 - CalculaPoupanca2 (For)\obj\Debug\P11 - CalculaPoupanca2 (For).exe
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P11 - CalculaPoupanca2 (For)\obj\Debug\P11 - CalculaPoupanca2 (For).pdb

@@ -1,0 +1,8 @@
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P10 - CalculaPoupanca (While)\bin\Debug\P10 - CalculaPoupanca (While).exe.config
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P10 - CalculaPoupanca (While)\bin\Debug\P10 - CalculaPoupanca (While).exe
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P10 - CalculaPoupanca (While)\bin\Debug\P10 - CalculaPoupanca (While).pdb
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P10 - CalculaPoupanca (While)\obj\Debug\P10 - CalculaPoupanca (While).csproj.AssemblyReference.cache
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P10 - CalculaPoupanca (While)\obj\Debug\P10 - CalculaPoupanca (While).csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P10 - CalculaPoupanca (While)\obj\Debug\P10 - CalculaPoupanca (While).csproj.CoreCompileInputs.cache
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P10 - CalculaPoupanca (While)\obj\Debug\P10 - CalculaPoupanca (While).exe
+C:\Users\leonardo.jossani\source\repos\AprendendoCSharp\P10 - CalculaPoupanca (While)\obj\Debug\P10 - CalculaPoupanca (While).pdb
